@@ -54,7 +54,7 @@ The dashboard uses a responsive typography system to ensure text remains readabl
 - h3: 24pt
 - body: 16pt
 - caption: 12pt
-- 
+
 ### Spacing System
 A consistent spacing system ensures uniform padding, margins, and alignment across all components.
 
